@@ -16,4 +16,5 @@ zac-george-gpt/lib/python3.11/site-packages/debugpy/_vendored/pydevd/pydevd_atta
 zac-george-gpt/lib/python3.11/site-packages/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/attach_linux_x86.o
 zac-george-gpt/lib/python3.11/site-packages/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/attach_linux_x86_64.o
 fly.toml
-audio/
+
+scripts/audio/
