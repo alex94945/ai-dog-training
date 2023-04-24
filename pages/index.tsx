@@ -111,10 +111,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Besties-GPT</title>
+        <title>Zac-George-GPT</title>
         <meta
           name="description"
-          content={`AI-powered search and chat for the All-In podcast. `}
+          content={`AI-powered search and chat for Zac George's Dog Training YouTube channel.`}
         />
         <meta
           name="viewport"
@@ -139,7 +139,7 @@ export default function Home() {
                   ref={inputRef}
                   className="h-12 w-full rounded-full border border-zinc-600 pr-12 pl-11 focus:border-zinc-800 focus:outline-none focus:ring-1 focus:ring-zinc-800 sm:h-16 sm:py-2 sm:pr-16 sm:pl-16 sm:text-lg"
                   type="text"
-                  placeholder="Why will ChatGPT change every industry?"
+                  placeholder="What is the first thing to do when I get a new puppy?"
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
                   onKeyDown={handleKeyDown}
@@ -233,7 +233,7 @@ export default function Home() {
                 ))}
               </div>
             ) : (
-              <div className="mt-6 text-center text-lg">{`AI-powered search and chat for the All In podcast.`}</div>
+              <div className="mt-6 text-center text-lg">{`AI-powered search and chat for Zac George's Dog Training YouTube channel.`}</div>
             )}
           </div>
         </div>

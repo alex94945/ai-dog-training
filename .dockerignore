@@ -18,3 +18,4 @@ zac-george-gpt/lib/python3.11/site-packages/debugpy/_vendored/pydevd/pydevd_atta
 fly.toml
 
 scripts/audio/
+node_modules
