@@ -14,23 +14,14 @@ export const Footer: FC = () => {
           target="_blank"
           rel="noreferrer"
         >
-          Lance Martin.
+          Alex Young.
         </a>
       </div>
 
       <div className="flex space-x-4">
         <a
           className="flex items-center hover:opacity-50"
-          href="https://twitter.com/RLanceMartin"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <IconBrandTwitter size={24} />
-        </a>
-
-        <a
-          className="flex items-center hover:opacity-50"
-          href="https://github.com/PineappleExpress808/"
+          href="https://github.com/alex94945"
           target="_blank"
           rel="noreferrer"
         >
