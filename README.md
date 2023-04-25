@@ -1,9 +1,9 @@
 # Besties-GPT
 
-This app enables AI-powered search for the ALL IN podcast.
+This app enables AI-powered search for the Zak George YouTube channel.
 
-App is here:
-https://besties-gpt.fly.dev 
+Channel is here:
+https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ
 
 ## Dataset
  

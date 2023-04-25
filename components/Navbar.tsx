@@ -1,7 +1,7 @@
 import { IconExternalLink } from "@tabler/icons-react";
 import Image from "next/image";
 import { FC } from "react";
-import king from "../public/allin.jpg";
+import king from "../public/zak.jpg";
 
 export const Navbar: FC = () => {
   return (
@@ -9,7 +9,7 @@ export const Navbar: FC = () => {
       <div className="font-bold text-2xl flex items-center">
         <a
           className="flex hover:opacity-50 items-center"
-          href="https://wait-but-why-gpt.vercel.app"
+          href="https://zac-george-gpt.fly.dev/"
         >
           <Image
             className="hidden sm:flex"
@@ -17,17 +17,17 @@ export const Navbar: FC = () => {
             alt="The Network State GPT"
             height={40}
           />
-          <div className="ml-2">Zac-George-GPT</div>
+          <div className="ml-2">Zak-George-GPT</div>
         </a>
       </div>
       <div>
         <a
           className="flex items-center hover:opacity-50"
-          href="https://www.youtube.com/@allinpod/videos"
+          href="https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ"
           target="_blank"
           rel="noreferrer"
         >
-          <div className="hidden sm:flex">All In Podcast</div>
+          <div className="hidden sm:flex">Zak George YouTube</div>
 
           <IconExternalLink
             className="ml-1"

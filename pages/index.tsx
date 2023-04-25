@@ -111,10 +111,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Zac-George-GPT</title>
+        <title>Zak-George-GPT</title>
         <meta
           name="description"
-          content={`AI-powered search and chat for Zac George's Dog Training YouTube channel.`}
+          content={`AI-powered search and chat for Zak George's Dog Training YouTube channel.`}
         />
         <meta
           name="viewport"
@@ -233,7 +233,7 @@ export default function Home() {
                 ))}
               </div>
             ) : (
-              <div className="mt-6 text-center text-lg">{`AI-powered search and chat for Zac George's Dog Training YouTube channel.`}</div>
+              <div className="mt-6 text-center text-lg">{`AI-powered search and chat for Zak George's Dog Training YouTube channel.`}</div>
             )}
           </div>
         </div>

@@ -1,3 +1,5 @@
 zac-george-gpt/
 scripts/audio/
 node_modules
+.next/
+next-env.d.ts
