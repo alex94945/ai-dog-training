@@ -1,9 +1,10 @@
-# Besties-GPT
+# AI-dog-training-GPT
 
-This app enables AI-powered search for the Zak George YouTube channel.
+This app enables AI-powered search for the Zak George and Dog Training By Kikopup YouTube channels.
 
 Channel is here:
 https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ
+https://www.youtube.com/channel/UC-qnqaajTk6bfs3UZuue6IQ
 
 ## Dataset
  
@@ -27,14 +28,10 @@ Deploy to Fly.io: `fly launch`
 
 ## Credits
 
+Thanks to Lance Martin for open sourcing his Besties GPT code (https://github.com/rlancemartin/besties-gpt)
+
 Thanks to [Mckay Wrigley](https://twitter.com/mckaywrigley) for open-sourcing his UI.
- 
-Thanks to All IN for the excellent podcast.
 
 ## Local testing
 
 `yarn dev`
-
-## Contact
-
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/RLanceMartin)!
