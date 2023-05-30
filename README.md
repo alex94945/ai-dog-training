@@ -2,9 +2,9 @@
 
 This app enables AI-powered search for the Zak George and Dog Training By Kikopup YouTube channels.
 
-Channel is here:
-https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ
-https://www.youtube.com/channel/UC-qnqaajTk6bfs3UZuue6IQ
+Channels here:
+* Zak George: https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ
+* Dog Training by Kikopup: https://www.youtube.com/channel/UC-qnqaajTk6bfs3UZuue6IQ
 
 ## Dataset
  
